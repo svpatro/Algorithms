@@ -1,6 +1,6 @@
 # Algorithms
 
-In each category of algorithms, I have included a `src` folder which contains code files that are common to each of the algorithms (as applicable). 
+In each category of algorithms, I have included a `src` folder which contains code files that are common to each of the algorithms in that category (as applicable). Additionally, I have included a folder dedicated to explaining computational complexity and each of its classes.
 
 The following algorithms are implemented:
 
