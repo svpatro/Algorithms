@@ -1,4 +1,5 @@
-# Definitions
+#
+Definitions
 
 We need to define a couple of things before we continue to learn about computational complexity and its classes.
 
