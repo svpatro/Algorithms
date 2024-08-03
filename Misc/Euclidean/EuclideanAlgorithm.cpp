@@ -1,6 +1,7 @@
 /*
 Author: Shamik V. Patro
-Description: Calculate the GCD between 2 numbers via the Euclidean Algorithm (a = b * q + r).
+Description: Calculate the GCD between 2 numbers via the Euclidean Algorithm.
+a = b * q + r.
 */
 
 #include <iostream>

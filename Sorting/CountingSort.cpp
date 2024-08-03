@@ -46,7 +46,6 @@ int* arrange(int* freq, int size, int* sorted){
             sorted[j] = i;
         }
     }
-
     return sorted;
 }
 
