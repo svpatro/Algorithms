@@ -31,3 +31,9 @@ The following algorithms are implemented:
 - Fractional Knapsack
 - 0/1 Knapsack
 - Huffman Coding
+
+### Sorting
+- Selection Sort
+- Insertion Sort
+- Counting Sort
+- Radix Sort

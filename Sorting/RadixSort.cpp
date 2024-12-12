@@ -2,13 +2,14 @@
  
 Author: Shamik V. Patro
 
-Radix Sort Algorithm Functions:
- 
+Radix Sort requires stable counting sort as it's subroutine.
+
 */
 
 #include <iostream>
 
-int* countingSort(int* arr, int size){
+int* stableCountingSort(int* arr, int size){
+
 
 
 
@@ -16,8 +17,10 @@ int* countingSort(int* arr, int size){
 
 int main(){
 
+	int size = 15;
+	int* arr = new int[size]{};
 
-
+	stableCountingSort(arr, size);
 
 	return 0;
 }
