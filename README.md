@@ -37,3 +37,10 @@ The following algorithms are implemented:
 - Insertion Sort
 - Counting Sort
 - Radix Sort
+
+### Misc
+- Binary Search
+- Abelian Decomposition
+- (Extended) Euclidean
+- (Recursive) Fibonnaci
+- Rivest, Shamir, Adleman
